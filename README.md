@@ -4,7 +4,5 @@
 - 💞️ I’m looking to collaborate on Products.
 - 📫 How to reach me: telegram: @destors
 
-<!---
-Destors/Destors is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My current pet project: https://github.com/Destors/olympia-kosiv-nx
+My Djinni: https://djinni.co/q/f31c1e9800/
