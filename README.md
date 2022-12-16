@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Destors
 - 👀 I’m interested in Frontend Development (Angular, JS, TS, RxJS, SCSS.).
-- 🌱 I’m currently learning RxJs in Depth
+- 🌱 I’m currently learning RxJs, NgRx in Depth.
 - 💞️ I’m looking to collaborate on Products.
 - 📫 How to reach me: telegram: @destors
 
