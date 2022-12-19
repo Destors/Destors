@@ -10,7 +10,7 @@ My Djinni: https://djinni.co/q/f31c1e9800/
 My code:
 
 Current pet project: <br>
-https://github.com/Destors/olympia-kosiv-nx
+https://github.com/Destors/olympia-kosiv-nx  <br>
 https://github.com/Destors/smart-one
 
 Codewars:
