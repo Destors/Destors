@@ -4,10 +4,6 @@
 - 💞️ I’m looking to collaborate on Products.
 - 📫 How to reach me: <br>
 telegram: @destors <br>
-email: oleksandrprosolovych@gmail.com <br>
-
-
-My Djinni: https://djinni.co/q/f31c1e9800/
 
 My code:
 
