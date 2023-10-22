@@ -9,7 +9,7 @@ My code:
 
 Current pet project: <br>
 https://github.com/Destors/olympia-kosiv-nx  <br>
-https://github.com/Destors/smart-one
+https://github.com/Destors/angular-crud-ngrx-demo
 
 Codewars:
 https://www.codewars.com/users/destors
