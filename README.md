@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Destors
+- 👋 Hi, I’m @Destors, Angular frontend developer at Intellias.
 - 👀 I’m interested in Frontend Development (Angular, JS, TS, RxJS, SCSS.).
-- 🌱 I’m currently learning RxJs, NgRx in Depth.
-- 💞️ I’m looking to collaborate on Products.
+- 🌱 I’m currently learning RxJs, NgRx in Depth, unit testing.
 - 📫 How to reach me: <br>
 telegram: @destors <br>
-
 My code:
 
 Current pet project: <br>
