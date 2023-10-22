@@ -5,8 +5,7 @@
 telegram: @destors <br>
 
 
-My code:
-Current pet project: <br>
+Current pet projects: <br>
 https://github.com/Destors/olympia-kosiv-nx  <br>
 https://github.com/Destors/angular-crud-ngrx-demo
 
